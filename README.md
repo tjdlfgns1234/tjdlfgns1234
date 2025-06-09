@@ -1,20 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20I'm%20Ilhoon%20Seo&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20I'm%20Ilhun%20Sur&fontSize=60)
 
 # 👋 안녕하세요, 팀의 성과를 이끄는 개발자 서일훈입니다.
 
-- 충북대학교 소프트웨어학과 졸업(2502) (평점: 3.74)
+> 팀의 동기부여와 협업, 꾸준한 성장에 강점이 있는 개발자 서일훈입니다. 다양한 리더 경험과 알고리즘 실력을 바탕으로, 앞으로도 새로운 도전을 이어가겠습니다!
+
+
+### 🎓 학력
+- 충북대학교 소프트웨어학과 학사 졸업 (25.02)  |  평점: 3.74/4.5
+- 창현고등학교 졸업
+
+
+### 🪖 병역
 - 대한민국 해군 병장 만기 전역
+
+### 📄 자격 및 시험
 - OPIc IM1 (2024.8.30)
 - Topcit 571점 (수준 3)
 - SW 역량테스트 A+ (SSAFY)
-- SSAFY 13기 (2025.01.07 ~ 현재)
 
----
 
 ## 🏆 리더십 & 수상 경력
 
 - **소프트웨어학과 학술동아리 NOVA 회장 (2023.02 ~ 2024.02)**
-  - 약 50명의 동아리원을 이끌며 전국 SW 학술동아리 경진대회에서 연속 2회 1등 성과 달성
+  - 약 50명의 동아리원을 이끌며 교내 SW 학술동아리 발표회에서 연속 2회 1등 성과 달성
   - 팀 내 동기부여와 협업 문화 강화, 실질적 성과 창출에 집중
 - 2024-2 ICPC Seoul Regional - Honorable Mention (학교대표)
 - 2023-2 ICPC Seoul Regional - Honorable Mention (학교대표)
@@ -58,13 +66,24 @@
 
 ## 💻 알고리즘 & 코딩 프로필
 
+🏅 주력 언어
+<p> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </p>
+
 ### 백준 (Solved.ac)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdlfgns1234)](https://solved.ac/tjdlfgns1234/)
-<!-- 위의 '본인백준ID'를 실제 백준 ID로 교체하세요. -->
+
+### Codeforces
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=CrimsonRaptor)](https://codeforces.com/profile/CrimsonRaptor)
+<!-- '본인CodeforcesID'를 실제 Codeforces ID로 교체하세요. -->
+<!-- 참고: Codeforces Readme Stats 공식 문서 [4][5] -->
+
+### SWEA
+[![SWEA](https://img.shields.io/badge/SWEA-Profile-blue?logo=Samsung&logoColor=white)](https://swexpertacademy.com/main/code/userInfo/userInfo.do?handle=tjdlfgns1234)
+<!-- '본인SWEAID'를 실제 SWEA ID로 교체하세요. SWEA는 공식 badge API가 없으므로 shields.io로 badge를 만들고 링크로 연결합니다[2][3][6]. -->
 
 ### ICPC Open Profile
 [![ICPC Profile](https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc)](https://icpc.global/ICPCID/7O29P09L13BC)
-<!-- 위의 'ICPCID'를 본인 ICPC 프로필 링크로 교체하세요. -->
+
 
 ---
 
@@ -81,8 +100,6 @@
 - GitHub: [github.com/tjdlfgns1234](https://github.com/tjdlfgns1234)
 
 ---
-
-> 팀의 동기부여와 협업, 꾸준한 성장에 강점이 있는 개발자 서일훈입니다. 다양한 리더 경험과 알고리즘 실력을 바탕으로, 앞으로도 새로운 도전을 이어가겠습니다!
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
