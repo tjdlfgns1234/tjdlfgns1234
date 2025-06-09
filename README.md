@@ -19,13 +19,10 @@
 - SW 역량테스트 A+ (SSAFY)
 
 
-## 🏆 리더십 & 수상 경력
+## 🏆 수상 경력
 
-- **소프트웨어학과 학술동아리 NOVA 회장 (2023.02 ~ 2024.02)**
-  - 약 50명의 동아리원을 이끌며 교내 SW 학술동아리 발표회에서 연속 2회 1등 성과 달성
-  - 팀 내 동기부여와 협업 문화 강화, 실질적 성과 창출에 집중
-- 2024-2 ICPC Seoul Regional - Honorable Mention (학교대표)
-- 2023-2 ICPC Seoul Regional - Honorable Mention (학교대표)
+- 2024-2 ICPC Seoul Regional - Honorable Mention
+- 2023-2 ICPC Seoul Regional - Honorable Mention
 - 2023-2 2차 Solved-Up 알고리즘 경진대회 장려상 (2023.11.7)
 - 2023-2 SW 중심대학 사업단 알고리즘 우수 튜터 (2023.12.29)
 - 2023-1 교과기반 프로젝트 영어 발표회 우수상
@@ -47,7 +44,7 @@
 
 ## 🎓 교육
 
-- SSAFY 13기 (2025.01.07 ~ 현재)
+- 삼년 청년 AI 아카데미 13기 (2025.01.07 ~ 현재)
 - KSA 창직 특화과정 (2020.06 ~ 2020.12)
 - 창업 엑셀러레이션 (외출 도우미 앱, 2020.05 ~ 2020.12)
 
@@ -64,7 +61,7 @@
 
 ---
 
-## 💻 알고리즘 & 코딩 프로필
+## 💻 알고리즘
 
 🏅 주력 언어
 <p> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </p>
@@ -74,12 +71,9 @@
 
 ### Codeforces
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=CrimsonRaptor)](https://codeforces.com/profile/CrimsonRaptor)
-<!-- '본인CodeforcesID'를 실제 Codeforces ID로 교체하세요. -->
-<!-- 참고: Codeforces Readme Stats 공식 문서 [4][5] -->
 
 ### SWEA
 [![SWEA](https://img.shields.io/badge/SWEA-Profile-blue?logo=Samsung&logoColor=white)](https://swexpertacademy.com/main/code/userInfo/userInfo.do?handle=tjdlfgns1234)
-<!-- '본인SWEAID'를 실제 SWEA ID로 교체하세요. SWEA는 공식 badge API가 없으므로 shields.io로 badge를 만들고 링크로 연결합니다[2][3][6]. -->
 
 ### ICPC Open Profile
 [![ICPC Profile](https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc)](https://icpc.global/ICPCID/7O29P09L13BC)
@@ -96,7 +90,7 @@
 
 ## 📫 연락처
 
-- 이메일: [your.email@example.com]
+- 이메일: [tjdlfgns1234@naver.com]
 - GitHub: [github.com/tjdlfgns1234](https://github.com/tjdlfgns1234)
 
 ---
