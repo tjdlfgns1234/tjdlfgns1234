@@ -1,4 +1,6 @@
-# 👋 안녕하세요, 개발자 서일훈입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20I'm%20Ilhoon%20Seo&fontSize=60)
+
+# 👋 안녕하세요, 팀의 성과를 이끄는 개발자 서일훈입니다.
 
 - 충북대학교 소프트웨어학과 졸업(2502) (평점: 3.74)
 - 대한민국 해군 병장 만기 전역
@@ -9,8 +11,11 @@
 
 ---
 
-## 🏆 수상 및 경력
+## 🏆 리더십 & 수상 경력
 
+- **소프트웨어학과 학술동아리 NOVA 회장 (2023.02 ~ 2024.02)**
+  - 약 50명의 동아리원을 이끌며 전국 SW 학술동아리 경진대회에서 연속 2회 1등 성과 달성
+  - 팀 내 동기부여와 협업 문화 강화, 실질적 성과 창출에 집중
 - 2024-2 ICPC Seoul Regional - Honorable Mention (학교대표)
 - 2023-2 ICPC Seoul Regional - Honorable Mention (학교대표)
 - 2023-2 2차 Solved-Up 알고리즘 경진대회 장려상 (2023.11.7)
@@ -51,6 +56,25 @@
 
 ---
 
+## 💻 알고리즘 & 코딩 프로필
+
+### 백준 (Solved.ac)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdlfgns1234)](https://solved.ac/tjdlfgns1234/)
+<!-- 위의 '본인백준ID'를 실제 백준 ID로 교체하세요. -->
+
+### ICPC Open Profile
+[![ICPC Profile](https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc)](https://icpc.global/ICPCID/7O29P09L13BC)
+<!-- 위의 'ICPCID'를 본인 ICPC 프로필 링크로 교체하세요. -->
+
+---
+
+## 📊 GitHub Stats
+
+![tjdlfgns1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdlfgns1234&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlfgns1234&layout=compact&theme=radical)
+
+---
+
 ## 📫 연락처
 
 - 이메일: [your.email@example.com]
@@ -58,4 +82,7 @@
 
 ---
 
-> 꾸준한 성장과 도전을 즐기는 개발자 서일훈입니다. 다양한 경험과 프로젝트를 통해 실력을 키워가고 있습니다. 앞으로도 새로운 기술과 협업을 통해 성장하는 개발자가 되겠습니다!
+> 팀의 동기부여와 협업, 꾸준한 성장에 강점이 있는 개발자 서일훈입니다. 다양한 리더 경험과 알고리즘 실력을 바탕으로, 앞으로도 새로운 도전을 이어가겠습니다!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
