@@ -58,7 +58,7 @@
 | Knife Detection Project  | 2023.09.01 ~ 2023.12.13     | https://github.com/HHJade21/23_2_CBNU_AI_BTS                | AI, Github, Pytorch, Yolov5   |
 | 메이플 스토리 옥션        | 2023.09.01 ~ 2023.12.11     | https://github.com/tjdlfgns1234/MapleAuction                | Database Design, MySQL, WEB   |
 | 식당 리뷰 분석 시스템      | 2024.03.01 ~ 2024.06.11     | https://github.com/tjdlfgns1234/Review_Anaysis              | AI, BigData, KoBert, MongoDB, Pytorch |
-| SSAFY Trip    | 2024.03.01 ~ 2024.06.11     | https://github.com/tjdlfgns1234/Ssafy_Final              | Vue, MyBatis, Spring, MySQL |
+| SSAFY Trip    | 2025.05.19 ~ 2024.05.28     | https://github.com/tjdlfgns1234/Ssafy_Final              | Vue, MyBatis, Spring, MySQL |
 
 ---
 
