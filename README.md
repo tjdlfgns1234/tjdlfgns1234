@@ -32,7 +32,7 @@
 
 | 프로젝트명 | 기간 | 링크 | 주요 기술/태그 |
 | :--- | :--- | :--- | :--- |
-| **전자주주총회 시스템** | 2025.07.14 ~ 2025.08.19 | [Notion](https://www.notion.so/254e07200a8080c29601f82a0993b25b) | Spring, Amazon S3, Postgres, MongoDB, Redis, Openvidu, JPA, Spring Security, JWT |
+| **전자주주총회 시스템** | 2025.07.14 ~ 2025.08.19 | [GitHub](https://github.com/tjdlfgns1234/uisadang) | Spring, Amazon S3, Postgres, MongoDB, Redis, Openvidu, JPA, Spring Security, JWT |
 | **SSAFY Trip** | 2025.05.19 ~ 2025.05.28 | [GitHub](https://github.com/tjdlfgns1234/Ssafy_Final) | Vue, MyBatis, Spring, MySQL |
 | **식당 리뷰 분석 시스템** | 2024.03.01 ~ 2024.06.11 | [GitHub](https://github.com/tjdlfgns1234/Review_Anaysis) | AI, BigData, KoBert, MongoDB, Pytorch |
 | **Knife Detection Project** | 2023.09.01 ~ 2023.12.13 | [GitHub](https://github.com/HHJade21/23_2_CBNU_AI_BTS) | AI, Github, Pytorch, Yolov5 |
