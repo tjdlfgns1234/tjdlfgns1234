@@ -10,13 +10,15 @@
 | **DevOps & Infra** |  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> |
 | **ETC** | <img src="https://img.shields.io/badge/OpenVidu-A51234?style=for-the-badge" /> |
 ***
-### 💻 활동 지표 (GitHub Stats & Algorithm Profiles)
+### 💻 GitHub 활동 지표 (GitHub Stats)
 <p align="center">
   <a href="https://github.com/tjdlfgns1234">
     <img src="https://github-readme-stats.vercel.app/api?username=tjdlfgns1234&show_icons=true&theme=radical" alt="Seoilhun's GitHub stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlfgns1234&layout=compact&theme=radical" alt="Top Langs"/>
   </a>
 </p>
+***
+### 🏆 알고리즘 프로필 (Algorithm Profiles)
 <p align="center">
   <a href="https://solved.ac/tjdlfgns1234"><img alt="Solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdlfgns1234"/></a>
   <a href="https://codeforces.com/profile/CrimsonRaptor"><img alt="Codeforces" src="https://codeforces-readme-stats.vercel.app/api/card?username=CrimsonRaptor"/></a>
@@ -54,17 +56,21 @@
 *   **창업동아리 (AI 스케줄러)** (2020. 07 ~ 2021. 02)
 *   **Learning Mate - Ragnarok 대표** (2020. 09 ~ 2020. 12)
 ***
-### 🎓 학력, 교육 및 자격증 (Education, Training & Certs)
+### 🎓 학력 (Education)
 *   **충북대학교 소프트웨어학과 학사 졸업** (2025. 02) | 평점: 3.74/4.5
+*   **창현고등학교 졸업** (2015.03 ~ 2018.02)
+***
+### 📚 교육 및 수료 (Training & Courses)
 *   **삼년 청년 AI 아카데미 13기** (2025. 01. 07 ~ 현재)
+*   **KSA 창직 특화과정** (2020.06.08 ~ 2020.12.31)
+*   **창업 엑셀러레이션 (외출 도우미 앱)** (2020.05.01 ~ 2020.12.18)
+***
+### 📄 자격증 (Certifications)
 *   **정보처리기사** (취득일: 2025. 9. 12)
 *   **OPIc (영어 말하기 시험) - 등급 IH** (취득일: 2025. 7. 26)
 *   **SQL 개발자 (SQLD)** (취득일: 2025. 6. 27)
 *   **SW 역량테스트 A+** (주관: SSAFY)
 *   **Topcit - 571점 (수준 3)**
-*   **KSA 창직 특화과정** (2020.06.08 ~ 2020.12.31)
-*   **창업 엑셀러레이션 (외출 도우미 앱)** (2020.05.01 ~ 2020.12.18)
-*   **창현고등학교 졸업** (2015.03 ~ 2018.02)
 ***
 ### 📫 Contact
 *   **이메일:** [tjdlfgns1234@naver.com](mailto:tjdlfgns1234@naver.com)
