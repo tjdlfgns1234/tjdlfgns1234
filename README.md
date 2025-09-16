@@ -22,13 +22,12 @@
   <a href="https://codeforces.com/profile/CrimsonRaptor"><img alt="Codeforces" src="https://codeforces-readme-stats.vercel.app/api/card?username=CrimsonRaptor"/></a>
   <a href="https://icpc.global/ICPCID/7O29P09L13BC"><img alt="ICPC" src="https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc"/></a>
 </p>
+
 ***
 ### 🚀 주요 성과 및 차별점
 | 🏆 **알고리즘 역량** | 🛠️ **백엔드 개발 역량** | 💡 **AI 통합 역량** |
 | :---: | :---: | :---: |
-| -  **ICPC Seoul Regional** 2회 연속 진출 | -  **Spring Boot 기반 RESTful API** 설계 | -  **OpenAI API** 활용 가이드 챗봇 구현 |
-| -  **백준 플래티넘 3** 달성 | -  **데이터베이스 설계** 및 최적화 경험 | -  **실시간 데이터 분석** 및 시각화 |
-| -  **알고리즘 튜터** 경험 (지식 전달 능력) | -  **실서비스 배포**  경험 | -  **대용량 데이터 처리** 파이프라인 구축 |
+| **ICPC Seoul Regional** 2회 연속 진출<br>**백준 플래티넘 3** 달성<br>**알고리즘 튜터** 경험 (지식 전달 능력) | **Spring Boot 기반 RESTful API** 설계<br>**데이터베이스 설계** 및 최적화 경험<br>**실서비스 배포** 경험 | **OpenAI API** 활용 가이드 챗봇 구현<br>**실시간 데이터 분석** 및 시각화<br>**대용량 데이터 처리** 파이프라인 구축 |
 ***
 ### 🛠️ 프로젝트 (Projects)
 | 프로젝트명 | 기간 | 링크 | 주요 기술/태그 |
