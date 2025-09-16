@@ -20,11 +20,12 @@
 
 ***
 ### 🏆 알고리즘 프로필 (Algorithm Profiles)
-<p align="center">
-  <a href="https://icpc.global/ICPCID/7O29P09L13BC"><img alt="ICPC" src="https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc"/></a>
+<p>
   <a href="https://solved.ac/tjdlfgns1234"><img alt="Solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdlfgns1234"/></a>
   <a href="https://codeforces.com/profile/CrimsonRaptor"><img alt="Codeforces" src="https://codeforces-readme-stats.vercel.app/api/card?username=CrimsonRaptor"/></a>
+  <a href="https://icpc.global/ICPCID/7O29P09L13BC"><img alt="ICPC" src="https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc" height="40px"/></a>
 </p>
+
 
 ***
 ### 🚀 주요 성과 및 차별점
