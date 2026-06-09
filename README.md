@@ -1,83 +1,82 @@
-# 👋 실시간 데이터 아키텍처를 설계하는 백엔드 개발자, 서일훈입니다.
-> **1,000개 이상의 알고리즘 문제 해결과 30회 이상의 대회 경험**으로 다져진 견고한 문제 해결력을 기반으로, 복잡한 비즈니스 요구사항을 안정적이고 효율적인 시스템으로 구현합니다. 특히 데이터의 실시간성과 확장성을 고려한 아키텍처 설계에 강점을 가지고 있습니다.
-***
-### 🛠️ 기술 스택 (Tech Stack)
-| Category | Skills |
-| :--- | :--- |
-| **Language** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" /> <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white" /> |
-| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /> |
-| **DevOps & Infra** |  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon-S3&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> |
-| **ETC** | <img src="https://img.shields.io/badge/OpenVidu-A51234?style=for-the-badge" /> |
-***
-### 💻 GitHub 활동 지표 (GitHub Stats)
-<p align="center">
-  <a href="https://github.com/tjdlfgns1234">
-    <img src="https://github-readme-stats.vercel.app/api?username=tjdlfgns1234&show_icons=true&theme=radical" alt="Seoilhun's GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdlfgns1234&layout=compact&theme=radical" alt="Top Langs"/>
-  </a>
-</p>
 
-***
-### 🏆 알고리즘 프로필 (Algorithm Profiles)
-<p align="center">
-  <a href="https://solved.ac/tjdlfgns1234"><img alt="Solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdlfgns1234"/></a>
-  <a href="https://codeforces.com/profile/CrimsonRaptor"><img alt="Codeforces" src="https://codeforces-readme-stats.vercel.app/api/card?username=CrimsonRaptor"/></a>
-  <a href="https://icpc.global/ICPCID/7O29P09L13BC"><img alt="ICPC" src="https://img.shields.io/badge/ICPC-Open%20Profile-blue?style=flat-square&logo=icpc" height="40px"/></a>
-</p>
+---
+
+# 👋 다양한 개발 경험과 알고리즘으로 단련된 문제 해결사, 서일훈입니다.
+
+다양한 개발 경험과 **1,000개 이상의 알고리즘 문제 해결** 역량을 바탕으로 복잡한 비즈니스 문제를 효율적으로 풀어내는 **문제 해결사**입니다. SSAFY 최우수 수료 성과와 알고리즘 역량을 토대로 A기업에서 근무하고 있습니다.
+
+---
+
+### 💼 Career (경력 사항)
+
+**A기업** | 응용 Application 개발자 | `2026.01.19 - 현재`
+*   **.NET 환경에서 의료용 어플리케이션(Application) 개발 및 유지보수**
+*   의료 데이터의 안정적인 처리와 사용자 중심의 인터페이스 최적화
+
+**삼성 청년 SW AI 아카데미 (SSAFY) 13기** | 백엔드 개발자 | `2025.01.07 - 2025.12.31`
+*   **최우수 수료 (성적 상위 5% 이내)**
+*   Java/Spring 기반 대규모 프로젝트 수행 및 백엔드 아키텍처 설계
+*   대용량 데이터 스트리밍 및 실시간 알림 시스템 최적화 주도
+
+---
+
+### 📄 자격증 및 학력 (Certifications & Education)
+
+#### **Education**
+*   **충북대학교 소프트웨어학과 학사 졸업** (2025.02) | 평점: 3.74 / 4.5
+
+#### **Certifications**
+*   **SW검정 Professional**
+*   **OPIc** - **등급 IH**
+*   **정보처리기사**
+*   **SQL 개발자**
+
+#### **Awards**
+*   **2024 ICPC Seoul Regional** - Honorable Mention
+*   **2023 ICPC Seoul Regional** - Honorable Mention
+*   **청년 창업 아이템 경진대회** - 최우수상
+*   **알고리즘 튜터링 우수 튜터** 
 
 
-***
-### 🚀 주요 성과 및 차별점
+---
 
-| 🏆 **문제 해결 역량** | 🛠️ **실시간 아키텍처 설계 역량** | 💡 **하이브리드 DB 설계 역량** |
-| :---: | :---: | :---: |
-| 1,000+ 알고리즘 문제 해결<br>**백준 플래티넘 3** 달성<br>**ICPC Seoul Regional** 2회 연속 진출 | Kafka 데이터 스트림의 빠른 처리를 위한 Redis 활용<br>SSE(Server-Sent Events)를 이용한 실시간성 확보<br>OAuth2 및 Refresh Token 기반의 안정적인 인증 시스템 구현 | PostgreSQL(메타데이터) + MongoDB(본문 데이터)<br>결합을 통한 데이터 특성별 최적화<br>조회 성능과 유연한 데이터 관리 동시 달성 |
+### 🚀 프로젝트 (Projects)
 
+**1. 피싱피싱 - AI 기반 올인원 실시간 피싱 탐지 앱** `2025.10 - 2025.12`
+*   **Role:** AI 및 백엔드 개발 총괄 (**기여도 20%, 프로젝트 Best Member 선정**)
+*   **Tech:** Spring Boot, Java 21, MySQL, MongoDB, Redis, Pytorch, Onnx, HyperClova X
+*   **Key Achievement:** 
+    *   **On-device LLM 구축:** 모바일 환경(8GB RAM) 제약을 극복하기 위해 1B 이하 소형 모델(sLM) 최적화 및 Onnx 포팅.
+    *   **데이터 불균형 해결:** GPT-4.1 mini를 활용해 정상 통화 데이터를 증강하고 LoRA 파인튜닝을 통해 오탐지율 개선.
+    *   **인증 시스템:** 카카오 OAuth2 및 Redis 기반의 토큰 관리 시스템 구현.
 
-***
-### 🛠️ 프로젝트 (Projects)
-| 프로젝트명 | 기간 | 링크 | 주요 기술/태그 |
-| :--- | :--- | :--- | :--- |
-| **전자주주총회 시스템** | 2025.07.14 ~ 2025.08.19 | [GitHub](https://github.com/tjdlfgns1234/uisadang) | Spring, Amazon S3, Postgres, MongoDB, Redis, Openvidu, JPA, Spring Security, JWT |
-| **SSAFY Trip** | 2025.05.19 ~ 2025.05.28 | [GitHub](https://github.com/tjdlfgns1234/Ssafy_Final) | Vue, MyBatis, Spring, MySQL |
-| **식당 리뷰 분석 시스템** | 2024.03.01 ~ 2024.06.11 | [GitHub](https://github.com/tjdlfgns1234/Review_Anaysis) | AI, BigData, KoBert, MongoDB, Pytorch |
-| **Knife Detection Project** | 2023.09.01 ~ 2023.12.13 | [GitHub](https://github.com/HHJade21/23_2_CBNU_AI_BTS) | AI, Github, Pytorch, Yolov5 |
-| **메이플 스토리 옥션** | 2023.09.01 ~ 2023.12.11 | [GitHub](https://github.com/tjdlfgns1234/MapleAuction) | Database Design, MySQL, WEB |
-| **자연 재해 정보 시스템** | 2023.03.01 ~ 2023.06.20 | [GitHub](https://github.com/tjdlfgns1234/OpensourceWebProject) | CSS, HTML, JS |
-***
-### 🏆 수상 경력 (Awards)
-*   **2024-2 ICPC Seoul Regional** - Honorable Mention (학교 대표, 24. 11.23)
-*   **2023-2 ICPC Seoul Regional** - Honorable Mention (학교 대표, 23. 11.25)
-*   **2023-2 2차 Solved-Up 알고리즘 경진대회** - 장려상 (2023. 11. 7)
-*   **2023-2 SW 중심대학 사업단 알고리즘** 우수 튜터 선정 (23. 12. 29)
-*   **2023-1 교과기반 프로젝트 영어 발표회** - 우수상 (23. 8. 24)
-*   **2020 청년 창업 아이템 경진대회** - 최우수상 (20. 10.21)
-*   **2020 한국 표준협회 청년 취업 아카데미 창직 과정** - 장려상 (20. 12. 31)
-***
-### 🏃 주요 활동 (Activities)
-*   **소프트웨어 학과 학술동아리 NOVA 회장** (2023. 02 ~ 2024. 02)
-*   **알고리즘 튜터 (학부생 및 Co-Change 튜터링 대표)** (2023. 03 ~ 2023. 12)
-*   **창업동아리 (AI 스케줄러)** (2020. 07 ~ 2021. 02)
-*   **Learning Mate - Ragnarok 대표** (2020. 09 ~ 2020. 12)
-***
-### 🎓 학력 (Education)
-*   **충북대학교 소프트웨어학과 학사 졸업** (2025. 02) | 평점: 3.74/4.5
-*   **창현고등학교 졸업** (2015.03 ~ 2018.02)
-***
-### 📚 교육 및 수료 (Training & Courses)
-*   **삼년 청년 AI 아카데미 13기** (2025. 01. 07 ~ 현재)
-*   **KSA 창직 특화과정** (2020.06.08 ~ 2020.12.31)
-*   **창업 엑셀러레이션 (외출 도우미 앱)** (2020.05.01 ~ 2020.12.18)
-***
-### 📄 자격증 (Certifications)
-*   **정보처리기사** (취득일: 2025. 9. 12)
-*   **OPIc (영어 말하기 시험) - 등급 IH** (취득일: 2025. 7. 26)
-*   **SQL 개발자 (SQLD)** (취득일: 2025. 6. 27)
-*   **SW 역량테스트 A+** (주관: SSAFY)
-*   **Topcit - 571점 (수준 3)**
-***
-### 📫 Contact
-*   **이메일:** [tjdlfgns1234@naver.com](mailto:tjdlfgns1234@naver.com)
-*   **GitHub:** [github.com/tjdlfgns1234](https://github.com/tjdlfgns1234)
+**2. 돈! 와줘 - AI 기반 실시간 모의주식 투자 플랫폼** `2025.08 - 2025.09`
+*   **Role:** 백엔드 개발 총괄 (**기여도 35%**)
+*   **Tech:** Spring Boot, Java 21, PostgreSQL, MongoDB, Redis, Kafka, Docker, OpenAI
+*   **Key Achievement:** 
+    *   **고성능 시세 처리:** Kafka와 Redis를 결합하여 ms 단위의 실시간 시세 데이터를 안정적으로 수집 및 제공.
+    *   **지능형 검색:** OpenAI 임베딩과 PGVector를 활용하여 사용자 맞춤형 시맨틱 뉴스 검색 기능 구현.
+    *   **신기술 검증:** Java 21 가상 스레드(Virtual Threads) 도입을 통한 성능 테스트(K6) 및 시스템 적합성 분석 수행.
 
+**3. 의사당 - 온라인 전자 주주총회 플랫폼** `2025.07 - 2025.08`
+*   **Role:** 백엔드 개발 총괄 (**기여도 25%**)
+*   **Tech:** Spring Boot, Java 17, PostgreSQL, MongoDB, Redis, OpenVidu, JPA
+*   **Key Achievement:** 
+    *   **커넥션 누수 해결:** SSE 연결 유지 중 OSIV 설정에 따른 DB 커넥션 고갈 문제를 해결하여 2,000명 동시 접속 안정성 확보.
+    *   **쿼리 최적화:** N+1 문제가 발생하는 로직을 분석하여 JPQL `IN` 절 활용 방식으로 개선, API 응답 속도 최적화.
+    *   **데이터 영속화:** Amazon S3를 활용한 대용량 주주총회 서류 및 화상 녹화본 저장 기능 구현.
+
+**4. 한국여행 (Korean Travel) - 여행 플랫폼 서비스** `2025.05`
+*   **Role:** 팀장 및 Full-stack 개발 (**기여도 55%**)
+*   **Tech:** Spring Boot, Vue.js, MyBatis, MySQL, JWT
+*   **Key Achievement:** 
+    *   **인증 및 보안:** JWT 기반 인증 시스템 구축 및 Spring Security를 활용한 CORS 이슈 해결.
+    *   **UX 중심 설계:** 프론트엔드-백엔드 간 통신 구조를 최적화하고 Swagger를 통한 API 명세 자동화로 협업 효율 증대.
+
+---
+
+### 📫 Contact & Channels
+*   **Email** | [tjdlfgns1234@naver.com](mailto:tjdlfgns1234@naver.com)
+*   **GitHub** | [github.com/tjdlfgns1234](https://github.com/tjdlfgns1234)
+*   **Solved.ac** | [Platinum 3 (tjdlfgns1234)](https://solved.ac/tjdlfgns1234)
+*   **Codeforces** | [Pupil (CrimsonRaptor)](https://codeforces.com/profile/CrimsonRaptor)
